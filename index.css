@@ -1,0 +1,21 @@
+body{
+    background-color:gainsboro;
+}
+.smallbox{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 10px;
+}
+i{
+    color: aqua;
+}
+.cont{
+    margin:20px 0px;
+}
+a{
+    border-bottom:2px solid blue ;
+}
+.box{
+    padding: 60px 5px;
+}
